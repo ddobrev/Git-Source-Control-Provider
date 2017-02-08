@@ -1,4 +1,4 @@
-Easy Git Integration Tools (EZ-GIT)
+Git Source Control Provider 2017
 ================================
 
 Introduction
